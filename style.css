@@ -1,0 +1,67 @@
+body{
+  background-image:url(immagini/background.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.boxed {
+  margin: 30px;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0.5;
+  
+
+}
+
+.container1{
+  width: 1000px;
+  margin:auto;
+  text-align: center;
+}
+
+.logo{
+  width: 150px;
+}
+.textlogo{
+  color:#32CD32;
+
+}
+.container2{
+  width: 1000px;
+  margin:auto;
+  text-align: center;
+  background-color: #32CD32;
+  padding-top: 20px;
+  padding-right: 3px;
+  padding-bottom: 20px;
+  padding-left: 3px;
+
+}
+
+.container3{
+    width: 1000px;
+    margin:auto;
+}
+
+.container4{
+  width: 1000px;
+  margin:auto;
+}
+
+.container5{
+  width: 1000px;
+  margin:auto;
+}
+
+.subject{
+  font-family: 'Rubik', sans-serif;
+  color: white;
+
+}
+
+.subject2{
+  font-family: 'Overpass', sans-serif;
+  color: white;
+
+
+}
